@@ -1,4 +1,4 @@
- # Tagore Vidya Niketan ![Next.js](https://img.shields.io/badge/Next.js-14%2B-black?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-19-blue?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38bdf8?logo=tailwindcss&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-6.12-green?logo=mongodb&logoColor=white)
+  # Tagore Vidya Niketan ![Next.js](https://img.shields.io/badge/Next.js-14%2B-black?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-19-blue?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38bdf8?logo=tailwindcss&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-6.12-green?logo=mongodb&logoColor=white)
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
